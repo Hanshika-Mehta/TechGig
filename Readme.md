@@ -1,7 +1,7 @@
 # Personal Budget Tracker
 
 
-A <b>Personal Budget Tracker</b> is a Full Stack application which uses ReactJs as frontend and Django REST framework as Backend  , which allows users to manage their income and expenses. The application will enable users to add, edit, and delete transactions.The functionalities are :
+A <b>Personal Budget Tracker</b> is a Full Stack application which uses ReactJs as frontend and Django REST framework as Backend  , which allows users to manage their income and expenses. The application will enable users to add, edit, and delete transactions as well provide the ultimate feature of already adding up the necessity items to the list every month , so in case the user forgots to add , they are already added .The functionalities are :
 <br/>
  - <b>User Authentication</b>: Enable user registration and login functionality using Django's REST framework authentication system.
 <br />
@@ -10,6 +10,7 @@ A <b>Personal Budget Tracker</b> is a Full Stack application which uses ReactJs 
     2.  Remove expenses <br />
     3.  View how much of their budget is remaining <br />
     4.  View how much they've spent so far <br />
+    5.  Already added mandatory items <br />
 </br>
 <br/>
 -  <b>Dashboard</b>: Display an overview of the user's financial situation, including total Budget, total Spent, and Total Remaining.
