@@ -5,14 +5,14 @@ A <b>Personal Budget Tracker</b> is a Full Stack application which uses ReactJs 
 <br/>
  - <b>User Authentication</b>: Enable user registration and login functionality using Django's REST framework authentication system.
 <br />
- * ### <b>Add, Edit, and Delete Transactions</b>:-
-    *  Add expenses which have a name and a cost
-    *  Remove expenses
-    *  View how much of their budget is remaining
-    *  View how much they've spent so far
+ - <b>Add, Edit, and Delete Transactions</b>:-
+    1.  Add expenses which have a name and a cost <br />
+    2.  Remove expenses <br />
+    3.  View how much of their budget is remaining <br />
+    4.  View how much they've spent so far <br />
 </br>
 <br/>
-* ### <b>Dashboard</b>: Display an overview of the user's financial situation, including total Budget, total Spent, and Total Remaining.
+-  <b>Dashboard</b>: Display an overview of the user's financial situation, including total Budget, total Spent, and Total Remaining.
 <br/>
 
 ## <b>Frontend</b>
